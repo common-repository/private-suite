@@ -1,0 +1,186 @@
+# Translation of the WordPress plugin Private Suite 1.0 by Stephanie Leary.
+# Copyright (C) 2010 Stephanie Leary
+# This file is distributed under the same license as the Private Suite package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Private Suite 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/private-suite\n"
+"POT-Creation-Date: 2010-01-16 07:26+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Regis LEMAIRE <guiss@guiss.org>\n"
+"Language-Team: FRENCH <fr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: private-suite.php:62 private-suite.php:120
+msgid "Private: "
+msgstr "Privé&nbsp;: "
+
+#: private-suite.php:63 private-suite.php:129
+msgid "Protected: "
+msgstr "Protégé&nbsp;: "
+
+#: private-suite.php:72
+msgid "Settings"
+msgstr "Options"
+
+#: private-suite.php:462
+msgid "Your blog&#8217;s WordPress Pages, including the private ones"
+msgstr "Les pages de votre blog WordPress, incluant les pages privées"
+
+#: private-suite.php:463
+msgid "Pages (with private)"
+msgstr "Pages (incluant les pages privées)"
+
+#: private-suite.php:469
+msgid "Pages"
+msgstr "Pages"
+
+#: private-suite.php:511
+msgid "Title:"
+msgstr "Titre:"
+
+#: private-suite.php:513
+msgid "Sort by:"
+msgstr "Trié par:"
+
+#: private-suite.php:515
+msgid "Page title"
+msgstr "Titre de la page"
+
+#: private-suite.php:516
+msgid "Page order"
+msgstr "Ordre des pages"
+
+#: private-suite.php:517
+msgid "Page ID"
+msgstr "Id de la page"
+
+#: private-suite.php:521
+msgid "Exclude:"
+msgstr "Exlcure:"
+
+#: private-suite.php:523
+msgid "Page IDs, separated by commas."
+msgstr "Ids des pages, séparés par des virgules."
+
+#: private-suite.php:544 private-suite.php:557
+msgid "Main Page (no parent)"
+msgstr "Page principale (sans parent)"
+
+#: private-suite.php:664
+msgid "Options saved."
+msgstr "Options sauvegardées."
+
+#: private-suite.php:673
+msgid "Private Suite Options"
+msgstr "Options de Private Suite"
+
+#: private-suite.php:678
+msgid "Prefix for private post and page titles:"
+msgstr "Préfix pour les titres des posts et pages privés:"
+
+#: private-suite.php:680
+msgid "Prefix for password-protected post and page titles:"
+msgstr "Préfix pour les titres des posts et pages protégés par mot de passe:"
+
+#: private-suite.php:684
+msgid ""
+"Try to add private pages to <code>wp_list_pages()</code>, <code>wp_page_menu"
+"()</code>, and the Pages widget."
+msgstr ""
+"Essayer d'ajouter les pages privées à <code>wp_list_pages()</code>, <code>wp_page_menu"
+"()</code>, et au widget Pages."
+
+#: private-suite.php:685
+msgid ""
+"This might not work as expected. If it doesn't, try using the "
+"<code>wp_list_private_pages()</code> template tag instead."
+msgstr ""
+"Le fonctionnement peut ne pas être celui attendu. Si tel est le cas, essayez d'utiliser le template :"
+"<code>wp_list_private_pages()</code>."
+
+#: private-suite.php:690
+msgid "Private Categories"
+msgstr "Catégories privées"
+
+#: private-suite.php:691
+msgid "Posts in this category will automatically have their visibility set to Private when they&#8217;re published."
+msgstr "Les posts de ces catégories seront automatiquement de visibilité privée quand ils seront publiés."
+
+#: private-suite.php:701 private-suite.php:710 private-suite.php:719
+#: private-suite.php:733 private-suite.php:742 private-suite.php:751
+msgid "Administrators"
+msgstr "Administrateurs"
+
+#: private-suite.php:702 private-suite.php:711 private-suite.php:720
+#: private-suite.php:734 private-suite.php:743 private-suite.php:752
+msgid "Editors"
+msgstr "Editeurs"
+
+#: private-suite.php:703 private-suite.php:712 private-suite.php:721
+#: private-suite.php:735 private-suite.php:744 private-suite.php:753
+msgid "Authors"
+msgstr "Auteurs"
+
+#: private-suite.php:704 private-suite.php:713 private-suite.php:722
+#: private-suite.php:736 private-suite.php:745 private-suite.php:754
+msgid "Contributors"
+msgstr "Contributeurs"
+
+#: private-suite.php:705 private-suite.php:714 private-suite.php:723
+#: private-suite.php:737 private-suite.php:746 private-suite.php:755
+msgid "Subscribers"
+msgstr "Abonnés"
+
+#: private-suite.php:707
+msgid "and above can <strong>read</strong> private pages."
+msgstr "et supérieur peuvent <strong>lire</strong> les pages privées."
+
+#: private-suite.php:716
+msgid "and above can <strong>edit</strong> private pages."
+msgstr "et supérieur peuvent <strong>éditer</strong> les pages privées."
+
+#: private-suite.php:725
+msgid "and above can <strong>delete</strong> private pages."
+msgstr "et supérieur peuvent <strong>effacer</strong> les pages privées."
+
+#: private-suite.php:739
+msgid "and above can <strong>read</strong> private posts."
+msgstr "et supérieur peuvent <strong>lire</strong> les posts privés."
+
+#: private-suite.php:748
+msgid "and above can <strong>edit</strong> private posts."
+msgstr "et ci-dessus peuvent <strong>éditer</strong> les posts privés."
+
+#: private-suite.php:757
+msgid "and above can <strong>delete</strong> private posts."
+msgstr "et supérieur peuvent <strong>effacer</strong> les posts privés."
+
+#: private-suite.php:765
+msgid "Update Options"
+msgstr "Mise à jour des options"
+
+#. Plugin Name of an extension
+msgid "Private Suite"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://sillybean.net/code/wordpress/private-suite/"
+msgstr ""
+
+#. Description of an extension
+msgid "Allows admins to add private pages to <code>wp_list_pages()</code>, <code>wp_page_menu()</code>, and the Pages widget or use a separate <code>wp_list_private_pages()</code> tag; specify the prefix on private and password-protected titles; create private categories; and choose which user roles may read private pages and posts."
+msgstr "permet aux administrateurs d'ajouter des pages privées à <code> wp_list_pages () </ code>, <code>wp_page_menu () </code>, et le widget de Pages ou l'utilisation séparée <code>wp_list_private_pages () </code> ; préciser le préfixe des titres privés et protégés par mot de passe ; de définir des catégories privées et choisir les rôles utilisateurs spouvant lire des pages et des postes privés."
+
+#. Author of an extension
+msgid "Stephanie Leary"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://sillybean.net/"
+msgstr ""

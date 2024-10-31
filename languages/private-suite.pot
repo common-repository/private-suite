@@ -1,0 +1,179 @@
+# Translation of the WordPress plugin Private Suite 1.0 by Stephanie Leary.
+# Copyright (C) 2010 Stephanie Leary
+# This file is distributed under the same license as the Private Suite package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Private Suite 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/private-suite\n"
+"POT-Creation-Date: 2010-01-16 07:26+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: private-suite.php:62 private-suite.php:120
+msgid "Private: "
+msgstr ""
+
+#: private-suite.php:63 private-suite.php:129
+msgid "Protected: "
+msgstr ""
+
+#: private-suite.php:72
+msgid "Settings"
+msgstr ""
+
+#: private-suite.php:462
+msgid "Your blog&#8217;s WordPress Pages, including the private ones"
+msgstr ""
+
+#: private-suite.php:463
+msgid "Pages (with private)"
+msgstr ""
+
+#: private-suite.php:469
+msgid "Pages"
+msgstr ""
+
+#: private-suite.php:511
+msgid "Title:"
+msgstr ""
+
+#: private-suite.php:513
+msgid "Sort by:"
+msgstr ""
+
+#: private-suite.php:515
+msgid "Page title"
+msgstr ""
+
+#: private-suite.php:516
+msgid "Page order"
+msgstr ""
+
+#: private-suite.php:517
+msgid "Page ID"
+msgstr ""
+
+#: private-suite.php:521
+msgid "Exclude:"
+msgstr ""
+
+#: private-suite.php:523
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: private-suite.php:544 private-suite.php:557
+msgid "Main Page (no parent)"
+msgstr ""
+
+#: private-suite.php:664
+msgid "Options saved."
+msgstr ""
+
+#: private-suite.php:673
+msgid "Private Suite Options"
+msgstr ""
+
+#: private-suite.php:678
+msgid "Prefix for private post and page titles:"
+msgstr ""
+
+#: private-suite.php:680
+msgid "Prefix for password-protected post and page titles:"
+msgstr ""
+
+#: private-suite.php:684
+msgid ""
+"Try to add private pages to <code>wp_list_pages()</code>, <code>wp_page_menu"
+"()</code>, and the Pages widget."
+msgstr ""
+
+#: private-suite.php:685
+msgid ""
+"This might not work as expected. If it doesn't, try using the "
+"<code>wp_list_private_pages()</code> template tag instead."
+msgstr ""
+
+#: private-suite.php:701 private-suite.php:710 private-suite.php:719
+#: private-suite.php:733 private-suite.php:742 private-suite.php:751
+msgid "Administrators"
+msgstr ""
+
+#: private-suite.php:702 private-suite.php:711 private-suite.php:720
+#: private-suite.php:734 private-suite.php:743 private-suite.php:752
+msgid "Editors"
+msgstr ""
+
+#: private-suite.php:703 private-suite.php:712 private-suite.php:721
+#: private-suite.php:735 private-suite.php:744 private-suite.php:753
+msgid "Authors"
+msgstr ""
+
+#: private-suite.php:704 private-suite.php:713 private-suite.php:722
+#: private-suite.php:736 private-suite.php:745 private-suite.php:754
+msgid "Contributors"
+msgstr ""
+
+#: private-suite.php:705 private-suite.php:714 private-suite.php:723
+#: private-suite.php:737 private-suite.php:746 private-suite.php:755
+msgid "Subscribers"
+msgstr ""
+
+#: private-suite.php:707
+msgid "and above can <strong>read</strong> private pages."
+msgstr ""
+
+#: private-suite.php:716
+msgid "and above can <strong>edit</strong> private pages."
+msgstr ""
+
+#: private-suite.php:725
+msgid "and above can <strong>delete</strong> private pages."
+msgstr ""
+
+#: private-suite.php:739
+msgid "and above can <strong>read</strong> private posts."
+msgstr ""
+
+#: private-suite.php:748
+msgid "and above can <strong>edit</strong> private posts."
+msgstr ""
+
+#: private-suite.php:757
+msgid "and above can <strong>delete</strong> private posts."
+msgstr ""
+
+#: private-suite.php:765
+msgid "Update Options"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "Private Suite"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://sillybean.net/code/wordpress/private-suite/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"Allows admins to add private pages to <code>wp_list_pages()</code>, "
+"<code>wp_page_menu()</code>, and the Pages widget or use a separate "
+"<code>wp_list_private_pages()</code> tag; specify the prefix on private and "
+"password-protected titles; set private categories; and choose which user "
+"roles may read private pages and posts."
+msgstr ""
+
+#. Author of an extension
+msgid "Stephanie Leary"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://sillybean.net/"
+msgstr ""

@@ -1,0 +1,195 @@
+# Translation of the WordPress plugin Private Suite 1.0 by Stephanie Leary.
+# Copyright (C) 2010 Stephanie Leary
+# This file is distributed under the same license as the Private Suite package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Private Suite 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/private-suite\n"
+"POT-Creation-Date: 2010-01-16 07:26+0000\n"
+"PO-Revision-Date: 2010-12-28 21:56+0200\n"
+"Last-Translator: Христо Панджаров <hristo.p@siteground.com>\n"
+"Language-Team:  <hristo.p@siteground.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+
+#: private-suite.php:62
+#: private-suite.php:120
+msgid "Private: "
+msgstr "Лична:"
+
+#: private-suite.php:63
+#: private-suite.php:129
+msgid "Protected: "
+msgstr "Защитена:"
+
+#: private-suite.php:72
+msgid "Settings"
+msgstr "Настройки"
+
+#: private-suite.php:462
+msgid "Your blog&#8217;s WordPress Pages, including the private ones"
+msgstr "Страниците на вашия WordPress блог, включително личните"
+
+#: private-suite.php:463
+msgid "Pages (with private)"
+msgstr "Страници (вкл. лични)"
+
+#: private-suite.php:469
+msgid "Pages"
+msgstr "Страници"
+
+#: private-suite.php:511
+msgid "Title:"
+msgstr "Заглавие:"
+
+#: private-suite.php:513
+msgid "Sort by:"
+msgstr "Подреди по:"
+
+#: private-suite.php:515
+msgid "Page title"
+msgstr "Заглавие на страницата"
+
+#: private-suite.php:516
+msgid "Page order"
+msgstr "Ред на страницата"
+
+#: private-suite.php:517
+msgid "Page ID"
+msgstr "ID на страница"
+
+#: private-suite.php:521
+msgid "Exclude:"
+msgstr "Изключи:"
+
+#: private-suite.php:523
+msgid "Page IDs, separated by commas."
+msgstr "ID на страници, разделени със запетаи"
+
+#: private-suite.php:544
+#: private-suite.php:557
+msgid "Main Page (no parent)"
+msgstr "Главна страница (без родител)"
+
+#: private-suite.php:664
+msgid "Options saved."
+msgstr "Настройките записани."
+
+#: private-suite.php:673
+msgid "Private Suite Options"
+msgstr "Настройки на Private Suite"
+
+#: private-suite.php:678
+msgid "Prefix for private post and page titles:"
+msgstr "Префикс за лични постове и заглавия на страници:"
+
+#: private-suite.php:680
+msgid "Prefix for password-protected post and page titles:"
+msgstr "Префикс за постове защитени с пароли и заглавия на страници:"
+
+#: private-suite.php:684
+msgid "Try to add private pages to <code>wp_list_pages()</code>, <code>wp_page_menu()</code>, and the Pages widget."
+msgstr "Опитайте да добавите личните страници към <code>wp_list_pages()</code>, <code>wp_page_menu()</code>, и Pages джаджата."
+
+#: private-suite.php:685
+msgid "This might not work as expected. If it doesn't, try using the <code>wp_list_private_pages()</code> template tag instead."
+msgstr "Това може да не сработи както очаквате. Ако не се получи, използвайте <code>wp_list_private_pages()</code> тага в темата си."
+
+#: private-suite.php:701
+#: private-suite.php:710
+#: private-suite.php:719
+#: private-suite.php:733
+#: private-suite.php:742
+#: private-suite.php:751
+msgid "Administrators"
+msgstr "Администратори"
+
+#: private-suite.php:702
+#: private-suite.php:711
+#: private-suite.php:720
+#: private-suite.php:734
+#: private-suite.php:743
+#: private-suite.php:752
+msgid "Editors"
+msgstr "Редактори"
+
+#: private-suite.php:703
+#: private-suite.php:712
+#: private-suite.php:721
+#: private-suite.php:735
+#: private-suite.php:744
+#: private-suite.php:753
+msgid "Authors"
+msgstr "Автори"
+
+#: private-suite.php:704
+#: private-suite.php:713
+#: private-suite.php:722
+#: private-suite.php:736
+#: private-suite.php:745
+#: private-suite.php:754
+msgid "Contributors"
+msgstr "Сътрудници"
+
+#: private-suite.php:705
+#: private-suite.php:714
+#: private-suite.php:723
+#: private-suite.php:737
+#: private-suite.php:746
+#: private-suite.php:755
+msgid "Subscribers"
+msgstr "Записани"
+
+#: private-suite.php:707
+msgid "and above can <strong>read</strong> private pages."
+msgstr "и нагоре могат да <strong>четат</strong> лични страници."
+
+#: private-suite.php:716
+msgid "and above can <strong>edit</strong> private pages."
+msgstr "и нагоре могат да <strong>редактират</strong> лични страници."
+
+#: private-suite.php:725
+msgid "and above can <strong>delete</strong> private pages."
+msgstr "и нагоре могат да <strong>трият</strong> лични страници."
+
+#: private-suite.php:739
+msgid "and above can <strong>read</strong> private posts."
+msgstr "и нагоре могат да <strong>четат</strong> лични страници."
+
+#: private-suite.php:748
+msgid "and above can <strong>edit</strong> private posts."
+msgstr "и нагоре могат да <strong>редактират</strong> лични страници."
+
+#: private-suite.php:757
+msgid "and above can <strong>delete</strong> private posts."
+msgstr "и нагоре могат да <strong>трият</strong> лични страници."
+
+#: private-suite.php:765
+msgid "Update Options"
+msgstr "Обнови настройките"
+
+#. Plugin Name of an extension
+msgid "Private Suite"
+msgstr "Private Suite"
+
+#. Plugin URI of an extension
+msgid "http://sillybean.net/code/wordpress/private-suite/"
+msgstr "http://sillybean.net/code/wordpress/private-suite/"
+
+#. Description of an extension
+msgid "Allows admins to add private pages to <code>wp_list_pages()</code>, <code>wp_page_menu()</code>, and the Pages widget or use a separate <code>wp_list_private_pages()</code> tag; specify the prefix on private and password-protected titles; set private categories; and choose which user roles may read private pages and posts."
+msgstr "Позволява на администраторите да добавят лични страници към <code>wp_list_pages()</code>, <code>wp_page_menu()</code>, и Pages джаджата или да използват отделен <code>wp_list_private_pages()</code> таг. Задайте префикс на личните или защитени с парола заглавия, настройте личните категории и изберете кои роля могат да четат лични страници и постове."
+
+#. Author of an extension
+msgid "Stephanie Leary"
+msgstr "Stephanie Leary"
+
+#. Author URI of an extension
+msgid "http://sillybean.net/"
+msgstr "http://sillybean.net/"
+
